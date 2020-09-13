@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451315360903",
+    "firebase_url": "https://virtual-tourist-guide-8cde2.firebaseio.com",
+    "project_id": "virtual-tourist-guide-8cde2",
+    "storage_bucket": "virtual-tourist-guide-8cde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451315360903:android:7fcadec87a6d6cd0828422",
+        "android_client_info": {
+          "package_name": "com.example.vrtguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451315360903-k1uk3b0ov04u5iikkq08c7trggj6tae8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vrtguide",
+            "certificate_hash": "8b72c3064ee00eb66abf26b66320b6fe27f0aac4"
+          }
+        },
+        {
+          "client_id": "451315360903-itthiinn0f3i4t3u8dnobl73o1n1ue55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TPnBa56Mes55rJs3YOX_K9vpw-mEWME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451315360903-itthiinn0f3i4t3u8dnobl73o1n1ue55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
